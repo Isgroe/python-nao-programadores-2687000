@@ -3,7 +3,7 @@ idade_numerica = 46
 altura = 1.74
 
 # Descubra o tipo de dado de cada variável acima
-
+type(data_nascimento)
 
 # Realize uma operação entre dados do tipo string e inteiro
 
