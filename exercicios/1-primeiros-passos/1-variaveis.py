@@ -9,3 +9,7 @@
 
 
 # Declare uma variável do tipo booleano
+nome = 'Gustavo'
+idade = 26
+verdadeiro = True
+falso = False
